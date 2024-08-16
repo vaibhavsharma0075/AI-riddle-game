@@ -1,0 +1,1 @@
+In the Riddle Game, users are presented with random riddles. For each riddle, users can guess the answer.If their answer is incorrect, they can ask for a hint. Users can continue playing as long as they wish .
